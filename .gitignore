@@ -14,4 +14,5 @@ buildNumber.properties
 org.eclipse.*
 
 # Visual Studio Code
-.vscode
+.vscode/
+.settings/
